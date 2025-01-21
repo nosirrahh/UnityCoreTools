@@ -1,0 +1,14 @@
+{
+    "name": "com.nosirrahh.unitycoretools",
+    "version": "1.0.0",
+    "displayName": "UnityCoreTools",
+    "description": "The UnityCoreTools package.",
+    "unity": "2022.1",
+    "dependencies": {},
+    "keywords": ["unity", "tools", "core"],
+    "author": {
+        "name": "nosirrahh",
+        "email": "nosirrahh@gmail.com",
+        "url": "https://github.com/nosirrahh/"
+    }
+}
